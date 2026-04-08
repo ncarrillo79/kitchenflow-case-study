@@ -1,2 +1,0 @@
-# kitchenflow-case-study
-
