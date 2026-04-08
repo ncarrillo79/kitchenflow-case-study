@@ -93,7 +93,6 @@ A escolha da arquitetura priorizou:
 - dashboard de métricas
 
 ---
-
 ## 💼 Observação
 
 O código fonte deste projeto é privado.
