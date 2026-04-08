@@ -1,10 +1,1 @@
 # kitchenflow-case-study
-
-
-
-
-
-
-
-
-
