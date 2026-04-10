@@ -1,8 +1,0 @@
-kitchenflow/
-├── README.md
-├── docs/
-│   ├── images/
-│   │   ├── kanban.png
-│   │   ├── fullscreen.png
-│   │   ├── card.png
-│   └── architecture.png
